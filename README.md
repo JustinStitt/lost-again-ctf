@@ -2,7 +2,7 @@
 
 ### My solution for a **really difficult** CTF
 
-ctf host: [cbak.is](www.cbak.is)
+ctf host: [cbak.is](https://www.cbak.is)
 
 ctf problem: Lost Again
 
