@@ -7,4 +7,4 @@ ctf host: cbak.is
 ctf problem: Lost Again
 
 #### Here's a quick visualization I made about the problem (more to come)
-![](./media/show1.gif)
+<img src="./media/show1.gif" width="250" height="250"/>
